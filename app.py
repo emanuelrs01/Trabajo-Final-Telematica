@@ -6,7 +6,7 @@ app = Dash(__name__)
 
 #Configurar el sitio web
 app.layout = html.Div([html.H1('Trabajo Emanuel Rios Silva'),
-                       html.Div('Emanuel Rios Silva Parte 2oooo')])
+                       html.Div('Emanuel Rios Silva Parte 2')])
 
                             					 
 #Funcion Principal
