@@ -6,8 +6,28 @@ app = Dash(__name__)
 
 #Configurar el sitio web
 app.layout = html.Div([html.H1('Trabajo Emanuel Rios Silva'),
-                       html.Div('Emanuel Rios Silva Parte 2')])
-
+                       html.Div('Emanuel Rios Silva Parte 2'),
+                       html.Div('
+                                ,        ,
+                               /(        )`
+                               \ \___   / |
+                               /- _  `-/  '
+                              (/\/ \ \   /\
+                              / /   | `    \
+                              O O   ) /    |
+                              `-^--'`<     '
+                              (_.)  _  )   /
+                              `.___/`    /
+                               `-----' /
+                  <----.     __ / __   \
+                  <----|====O)))==) \) /====
+                  <----'    `--' `.__,' \
+                              |        |
+                            \       /
+                          ______( (_  / \______
+                        ,'  ,-----'   |        \
+                        `--{__________)        \/ ')])
+                            					 
 #Funcion Principal
 if __name__ == '__main__':
   #Asi se carga el objeto principal a la interfaces de red con el puerto 80
