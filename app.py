@@ -6,27 +6,8 @@ app = Dash(__name__)
 
 #Configurar el sitio web
 app.layout = html.Div([html.H1('Trabajo Emanuel Rios Silva'),
-                       html.Div('Emanuel Rios Silva Parte 2'),
-                       html.Div('
-                                ,        ,
-                               /(        )`
-                               \ \___   / |
-                               /- _  `-/  '
-                              (/\/ \ \   /\
-                              / /   | `    \
-                              O O   ) /    |
-                              `-^--'`<     '
-                              (_.)  _  )   /
-                              `.___/`    /
-                               `-----' /
-                  <----.     __ / __   \
-                  <----|====O)))==) \) /====
-                  <----'    `--' `.__,' \
-                              |        |
-                            \       /
-                          ______( (_  / \______
-                        ,'  ,-----'   |        \
-                        `--{__________)        \/ ')])
+                       html.Div('Emanuel Rios Silva Parte 2oooo')])
+
                             					 
 #Funcion Principal
 if __name__ == '__main__':
